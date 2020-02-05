@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        noroff-nuxt-app
+        Test
       </h1>
       <h2 class="subtitle">
         My tiptop Nuxt.js project
